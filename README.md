@@ -1,19 +1,9 @@
-## Hi there 👋
+## Olá, sou o Fábio Luna! 👋
 
-<!--
-**fabiolunac/fabiolunac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Engenheiro Eletricista com habilitação em Sistemas Eletrônicos - UFJF.
+- Mestrando em Engenharia Elétrica na área de Processamento de Sinais - UFJF.
+  
+## 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiolunac&show_icons=true&theme=dark)
 
@@ -22,6 +12,5 @@ Here are some ideas to get you started:
 ##
 
 <div>
-  <a href = "www.linkedin.com/in/fábio-luna-7091ba62"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target = "_blank"> </a>
-  
+  <a href = "www.linkedin.com/in/fabio-luna-7091ba62"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target = "_blank"> </a>
 </div>
